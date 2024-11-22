@@ -104,7 +104,7 @@ Dynamic Sidebar Manage
 [sidebarDyanamic]: https://i.ibb.co/Jpq6X8x/9-Sidebar-Manage-Dynamically.png "9-Sidebar-Manage-Dynamically"
 
 ## Wanna talk with me
-Please mail me at - manirujjamanakash@gmail.com
+Please mail me at - mikidebesaw@gmail.com
 
 
 
